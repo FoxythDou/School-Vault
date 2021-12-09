@@ -1,3 +1,0 @@
-# Activity 2.2: Mission Week Reflection
-
-There are good things in the world, no matter how little it is. In the darkest moments of man is paired with a small ray of light even if its just a candle against the whole night. I can live up to my values with God guiding my way. We have the ability to do the mission of God, It just takes different difficulty for different people. For me atleast, As a theresian I can get good marks on my academe and help other people at need. As a son I will respect my parents and elders. As God's creation, I will be good to his creations as he has made us equal with him.

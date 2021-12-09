@@ -1,9 +1,0 @@
-{
-  "latex-pdf-css@@pdf-font": "\"Avenir Next\", \"Avenir Next Cyr\", 'Inter', -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Microsoft YaHei Light\", sans-serif",
-  "latex-pdf-css@@numbered-headings": false,
-  "latex-pdf-css@@image-alt-text": false,
-  "latex-pdf-css@@numbered-codeblocks": false,
-  "latex-pdf-css@@numbered-math": false,
-  "latex-pdf-css@@enhanced-tables": false,
-  "latex-pdf-css@@enhanced-blockquotes": false
-}

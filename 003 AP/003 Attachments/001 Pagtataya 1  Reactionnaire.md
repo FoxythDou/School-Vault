@@ -1,5 +1,0 @@
-# Pagtataya 1: Reactionnaire
-<center><iframe width="640" height="350" src="https://www.youtube.com/embed/oqc_vgwcLxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-1. Makikita ang mga PSA statistics kung saan 27.3 Million na pilipino ay unemployed dahil sa pag usbong ng pandemya o ibat pang economic recession. Ipinakikita din ang mga Jeepney drivers ay nag proprotesta na ipabalik ang mga Jeepney sa transportation sa pinas.  
-	- Ito ay nakakabahala para sa akin, dahil ito ay nagpapakita na ang pandemya ay nagdulot ng malaking impact sa kabuhayan ng pilipino. Dahil dito, Sila ay nagiging unemployed. Isa sa mga solution na aking ma-iisip ko ay ang pagbibigay ng trabaho sa mga govermental agencies na nagkakailangan nito. Isang halimbawa ang mga public bus, MRT, o kung di man ang pag-higit ng mga restriction sa mga pasahero ng jeep.
