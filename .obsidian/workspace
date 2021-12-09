@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "ca0a80ccad022180",
+    "type": "split",
+    "children": [
+      {
+        "id": "660feb89f4f85c0a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002 Math/002 Fleshed Notes/002 Measure of Central Tendencies.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da54590e17a29419",
+    "type": "split",
+    "children": [
+      {
+        "id": "01f9cc2616322b53",
+        "type": "tabs",
+        "dimension": 67.59002770083103,
+        "children": [
+          {
+            "id": "90e2ed703bef986c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b6026a36ae75b21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Pasted",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c4ba494b012dc529",
+        "type": "tabs",
+        "dimension": 32.40997229916898,
+        "children": [
+          {
+            "id": "57fc4620847594ca",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "002 Math/002 Fleshed Notes/002 Measure of Central Tendencies.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.034085748967000916,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "cbd5ce85fd4c7bfc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 447
+  },
+  "right": {
+    "id": "090cc8b4ecc5b69c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5a57ce239a898fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e201b9e3f999e6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "002 Math/002 Fleshed Notes/002 Measure of Central Tendencies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fec1fc4a2d0ced9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237,
+    "collapsed": true
+  },
+  "active": "660feb89f4f85c0a",
+  "lastOpenFiles": [
+    "002 Math/002 Fleshed Notes/002 Measure of Central Tendencies.md",
+    "002 Math/002 Fleshed Notes/001 Organization Of Data Graphs.md",
+    "002 Math/003 Attachments/Pasted image 20211208185906.png",
+    "002 Math/002 Fleshed Notes/004 Measures of variability.md",
+    "002 Math/002 Fleshed Notes/003 Grouped Central Measures of Tendencies.md",
+    "002 Math/002 Fleshed Notes/005 Measures Of Position.md",
+    "002 Math/001 Drafted Notes/007 DN Measures of Position.md",
+    "002 Math/003 Attachments/Pasted image 20211208184412.png",
+    "002 Math/003 Attachments/Pasted image 20211208183228.png",
+    "002 Math/003 Attachments/Pasted image 20211208182810.png"
+  ]
+}
