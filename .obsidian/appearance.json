@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 14,
+  "cssTheme": "WinterSnow",
+  "theme": "obsidian",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "DeepOcean",
+    "WinterSnow",
+    "ImgCenter",
+    "latex",
+    "ObsidianStyleSettings"
+  ],
+  "baseFontSizeAction": true
+}
