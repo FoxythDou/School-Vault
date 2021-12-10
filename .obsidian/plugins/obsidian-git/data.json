@@ -1,0 +1,15 @@
+{
+  "commitMessage": "Sync: {{date}}",
+  "commitDateFormat": "YYYY, MMM DD | HH:MM",
+  "autoSaveInterval": 0,
+  "autoPullInterval": 0,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFilesInMessageBody": true,
+  "showStatusBar": true,
+  "updateSubmodules": false,
+  "gitPath": "",
+  "customMessageOnAutoBackup": false
+}

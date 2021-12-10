@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002 Math/002 Fleshed Notes/002 Measure of Central Tendencies.md",
+            "file": "013 Anki Cards/001 MathFlash.md",
             "mode": "source"
           }
         }
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 Math/002 Fleshed Notes/002 Measure of Central Tendencies.md",
+                "file": "013 Anki Cards/001 MathFlash.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 Math/002 Fleshed Notes/002 Measure of Central Tendencies.md",
+                "file": "013 Anki Cards/001 MathFlash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +148,7 @@
   },
   "active": "660feb89f4f85c0a",
   "lastOpenFiles": [
+    "013 Anki Cards/001 MathFlash.md",
     "002 Math/002 Fleshed Notes/002 Measure of Central Tendencies.md",
     "002 Math/002 Fleshed Notes/001 Organization Of Data Graphs.md",
     "002 Math/003 Attachments/Pasted image 20211208185906.png",
@@ -156,7 +157,6 @@
     "002 Math/002 Fleshed Notes/005 Measures Of Position.md",
     "002 Math/001 Drafted Notes/007 DN Measures of Position.md",
     "002 Math/003 Attachments/Pasted image 20211208184412.png",
-    "002 Math/003 Attachments/Pasted image 20211208183228.png",
-    "002 Math/003 Attachments/Pasted image 20211208182810.png"
+    "002 Math/003 Attachments/Pasted image 20211208183228.png"
   ]
 }

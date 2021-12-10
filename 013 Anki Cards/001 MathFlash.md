@@ -1,76 +1,4 @@
 TARGET DECK: Math
-
-START
-School Cloze
-Title: Histogram
-Front: What are the X and Y?
-
- y = {{c1::Frequency}} 
-x = {{c2::Class Boundary}}
-Back: 
-Extra: Graphical display of data, Using different hieghts of bars
-Image Occlusion: 
-<!--ID: 1638932502554-->
-END
-
-
-START
-School Cloze
-Title: Frequency Polygon
-Front: What are the Y and X?
-
- y = {{c1::Frequency}} 
-x = {{c2::Class Mark}}
-Back:
-Extra: A closed figure.
-Image Occlusion: 
-<!--ID: 1638932502567-->
-END
-
-
-START
-School Cloze
-Title: Ogive
-Front: What are the Y and X?
-
- y = {{c1::Culmative Frequency}} 
-x = {{c2::Upper Boundary}}
-Back:
-Extra: Not a closed Figure.
-Image Occlusion: 
-<!--ID: 1638932502576-->
-END
-
-
-START
-School
-Front: What is a Histogram?
-Explaination: Graphical display of data, Using different hieghts of bars
-Examples:
-Image: ![[Pasted image 20211007082032.png]]
-<!--ID: 1638932502583-->
-END
-
-
-START
-School
-Front: What is a Frequency Polygon?
-Explaination: A closed figure that shows frequency and class mark.
-Examples:
-Image:  ![[Pasted image 20211007082344.png]]
-<!--ID: 1638932502593-->
-END
-
-
-START
-School
-Front: What is an ogive?
-Explaination: Just like the frequency polygon, **BUT ITS NOT A CLOSED FIGURE.** Uses culmative frequency and upper boundary.
-Examples:
-Image: ![[Pasted image 20211007082844.png]]
-<!--ID: 1638932502600-->
-END
-
   
 START
 School
@@ -110,7 +38,7 @@ END
 START
 School Cloze
 Title: Measures of central tendencies
-Front: Doe will use {Median} as his measure for finding the average of his data, *but he has outliers*.
+Front: Doe will use {Median} as his measure for finding the average of his data, *because he has outliers*.
 Back:  He will use median since mean can be affected by outliers. **Median isn't affected a bit by outliers.**
 Extra: 
 Image Occlusion: 
