@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "660feb89f4f85c0a",
+        "id": "cc2463311e1883e9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "013 Anki Cards/001 MathFlash.md",
+            "file": "013 Anki Cards/002 ArtsFlash.md",
             "mode": "source"
           }
         }
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "013 Anki Cards/001 MathFlash.md",
+                "file": "013 Anki Cards/002 ArtsFlash.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447
+    "width": 447,
+    "collapsed": true
   },
   "right": {
     "id": "090cc8b4ecc5b69c",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "013 Anki Cards/001 MathFlash.md",
+                "file": "013 Anki Cards/002 ArtsFlash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,23 +141,40 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "93940df923573b8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c45285b59a5b8273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 Math/002 Fleshed Notes/005 Measures Of Position.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 237,
     "collapsed": true
   },
-  "active": "660feb89f4f85c0a",
+  "active": "cc2463311e1883e9",
   "lastOpenFiles": [
+    "013 Anki Cards/002 ArtsFlash.md",
+    "002 Math/002 Fleshed Notes/005 Measures Of Position.md",
     "013 Anki Cards/001 MathFlash.md",
     "002 Math/002 Fleshed Notes/002 Measure of Central Tendencies.md",
-    "002 Math/002 Fleshed Notes/001 Organization Of Data Graphs.md",
-    "002 Math/003 Attachments/Pasted image 20211208185906.png",
     "002 Math/002 Fleshed Notes/004 Measures of variability.md",
     "002 Math/002 Fleshed Notes/003 Grouped Central Measures of Tendencies.md",
-    "002 Math/002 Fleshed Notes/005 Measures Of Position.md",
-    "002 Math/001 Drafted Notes/007 DN Measures of Position.md",
-    "002 Math/003 Attachments/Pasted image 20211208184412.png",
-    "002 Math/003 Attachments/Pasted image 20211208183228.png"
+    "013 Anki Cards/002 APFlash.md",
+    "002 Math/002 Fleshed Notes/001 Organization Of Data Graphs.md",
+    "002 Math/003 Attachments/Pasted image 20211208185906.png",
+    "002 Math/001 Drafted Notes/007 DN Measures of Position.md"
   ]
 }
